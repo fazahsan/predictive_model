@@ -1,0 +1,18 @@
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+#virtualenv
+venv/pre_model/
+#Environment variables
+.env
+#VsCode
+.vscode/
+#OS
+.DS_Store
+Thumbs.db
+#Logs
+logs/
+#jupyter
+.ipynb_checkpoints/ 
